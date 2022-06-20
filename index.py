@@ -1,3 +1,3 @@
-50 star geldiğinde kaynak koldar paylaşılacaktır.
+50 star geldiğinde kaynak kodlar paylaşılacaktır.
 
 Discord Adresim: okita#1000
